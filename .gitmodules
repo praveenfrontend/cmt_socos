@@ -1,0 +1,6 @@
+[submodule "front_end/cmt-client-app"]
+	path = front_end/cmt-client-app
+	url = https://github.com/praveenfrontend/cmt-client-app.git
+[submodule "back_end/CMT-V2"]
+	path = back_end/CMT-V2
+	url = https://github.com/rajagurucs/CMT-V2.git
